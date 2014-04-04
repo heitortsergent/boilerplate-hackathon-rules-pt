@@ -2,6 +2,8 @@
 
 [Código de conduta](https://github.com/heitortsergent/mlh-code-of-conduct-pt)
 
+-----
+
 ####Equipes
 
 As equipes devem ter de um a, no máximo, quatro membros. Todos os membros devem se inscrever individualmente, e estarem presentes durante a hackathon.
