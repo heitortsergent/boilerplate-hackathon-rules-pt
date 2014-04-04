@@ -44,6 +44,6 @@ Critérios que não serão considerados:
 -----
 
 ###Referências:
-[http://hackathon.launch.co/rules]
-[http://fintechhack.com/rules/]
-[http://sendgrid.com/blog/judge-hackathon/]
+http://hackathon.launch.co/rules
+http://fintechhack.com/rules/
+http://sendgrid.com/blog/judge-hackathon/
